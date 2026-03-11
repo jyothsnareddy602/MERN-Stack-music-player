@@ -6,7 +6,7 @@ This project showcases seamless frontend–backend integration, secure authentic
 🚀 Demo & Presentation
 🎥 YouTube Walkthrough
 
-🌐 Live Demo available
+🌐 Live Demo available:https://youtu.be/jpQUJNL5f2A?si=STz9Ap5WARbGfGwl
 
 ✨ Key Highlights
 🔐 User Authentication with JWT (Login/Signup)
